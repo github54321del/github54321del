@@ -1,1 +1,1 @@
-{ "url": "www.baidu.com", "status": "1" }
+{ "url": "https://sdk.silanggame.com/h5/640379902","status": "1" }
